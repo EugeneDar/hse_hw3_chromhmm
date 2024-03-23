@@ -23,6 +23,12 @@ binarizedData.zip
 
 generated_htmls.zip
 
+![](i1.png).
+![](i2.png).
+![](i3.png).
+![](i4.png).
+![](i5.png).
+
 ## Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
 
 | State | Characteristic Epigenetic Marks | Other Properties | Assigned Name |
@@ -40,6 +46,9 @@ generated_htmls.zip
 
 ## Одну или несколько картинок из UCSC GenomeBrowser, показывающих различные участки генома и соответствующие эпигенетические типы (и, желательно, профили эпигенетических меток)
 
-
+![alt text for screen readers](hgt_genome.jpg "Text to show on mouseover").
 
 ## Список всех запущенных команд
+
+https://colab.research.google.com/drive/1qMsVVPjRHxfFMKL_yMf_3pVZ2V_gP7AF?usp=sharing
+
